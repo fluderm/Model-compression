@@ -1,2 +1,2 @@
 # Model-compression
-Playing around with model compression
+Playing around with model compression techniques
